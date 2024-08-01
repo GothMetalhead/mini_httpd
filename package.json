@@ -1,0 +1,23 @@
+{
+    "name": "mini_httpd",
+    "version": "1.0.0",
+    "description": "A minimalistic and extremely fast HTTP daemon server",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "keywords": [
+      "http",
+      "server",
+      "daemon",
+      "minimalistic",
+      "fast",
+      "lightweight"
+    ],
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/GothMetalhead/mini_httpd/tree/main"
+  },
+    "author": "Melih Deniz Kayalar",
+    "license": "MIT"
+  }
